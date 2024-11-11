@@ -26,6 +26,7 @@ https://www.figma.com/design/GpJH1kCukv74O3pmmbjXhR/Untitled?node-id=0-1&t=cdTn8
 2. crear la carpeta del proyecto
    
 mkdir app_anime
+
  3. acceder a la carpeta del proyecto
    
  cd app_anime

@@ -21,16 +21,27 @@ https://www.figma.com/design/GpJH1kCukv74O3pmmbjXhR/Untitled?node-id=0-1&t=cdTn8
 1.arquitectura mvc
 2.arquitectura limpia
 
-# PASOS DE INICIALIZACION
-# 1. crear la carpeta del proyecto
-mkdir app_anime_py
-# 2. acceder a la carpeta del proyecto
- cd app_anime_py
-# 4. iniciar repositorio del proyecto
+ # PASOS DE INICIALIZACION
+
+2. crear la carpeta del proyecto
+   
+mkdir app_anime
+ 3. acceder a la carpeta del proyecto
+   
+ cd app_anime
+
+ 4. iniciar repositorio del proyecto
+   
 git init
-# 1. crear entorno vitual de la carpeta
- python -m venv tatto s
-# 6. inicializar entorno virtual de la carpeta
-source app_anime_py/Scripts/activate
-# 7.para desactivar la carpeta
+
+5.crear entorno vitual de la carpeta
+
+ python -m venv app_anime
+
+ 5. inicializar entorno virtual de la carpeta
+   
+source app_anime/Scripts/activate
+
+ 7.para desactivar la carpeta
+
 deactivat
